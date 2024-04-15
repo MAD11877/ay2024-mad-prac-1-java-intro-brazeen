@@ -25,7 +25,7 @@ public class Question5
         occurlist.add(count);
     }
     
-    //noww find highest count
+    //now find highest count
     int index = 0;
     int highest = 0;
     for (int i = 0; i < occurlist.size(); i++){
